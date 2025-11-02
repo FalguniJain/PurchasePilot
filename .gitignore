@@ -1,0 +1,5 @@
+/data
+/.zed
+NODE_MODULES
+.env
+*.env
